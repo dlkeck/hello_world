@@ -1,2 +1,2 @@
 # hello_world
-first repository 
+We are the ones we have been waiting for.
